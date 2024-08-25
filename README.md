@@ -1,3 +1,11 @@
+<div style="text-align: center;">
+    <a href="https://ibb.co/ynNbJJv">
+        <img src="https://i.ibb.co/GvdbjjY/Black-Simple-Elegant-Personal-Linked-In-Banner.png" alt="Black-Simple-Elegant-Personal-Linked-In-Banner" style="border: 5px solid #000; margin-center: 50px;" />
+    </a>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Indanam DurgaPrasad</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
