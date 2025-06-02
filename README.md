@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Indanam DurgaPrasad</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Python Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DataStructures&Algorithms**
 
-- 💬 Ask me about **Python, C, Java**
+- 💬 Ask me about **Python Full Stack Developer**
 
 - 📫 How to reach me **durgaprasadindhanam@gmail.com**
 
