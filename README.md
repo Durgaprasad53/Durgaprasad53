@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad53&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad53" /> </p>
 
-- 🔭 I’m currently working on **Multi-Layered Authentication System with Facial Recognition and Gesture Verification for Enhanced**
+- 🔭 I’m currently working on **Railway Track Condition Monitoring System for Preventive Maintenance**
 
 - 🌱 I’m currently learning **DataStructures&Algorithms**
 
