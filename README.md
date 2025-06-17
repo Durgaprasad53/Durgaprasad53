@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **Railway Track Condition Monitoring System for Preventive Maintenance**
 
-- 🌱 I’m currently learning **DataStructures&Algorithms**
+- 🌱 I’m currently learning **Python Full Stack**
 
-- 💬 Ask me about **Python Full Stack Developer**
+- 💬 Ask me about **Python Full Stack**
 
 - 📫 How to reach me **durgaprasadindhanam@gmail.com**
 
