@@ -16,8 +16,7 @@
 
 ---
 
-### 💡 About Me  
-- 🔭 Currently working on **AI-based Railway Track Condition Monitoring System**  
+### 💡 About Me   
 - 🌱 Learning **Python Full Stack Development & Advanced AI Models**  
 - 💬 Ask me about **Python, AI/ML, Data Visualization, and Full Stack Development**  
 - 🏆 Achievements: *Finalist in Citizen Hack | Published Research Paper | Best Prototype Award*  
