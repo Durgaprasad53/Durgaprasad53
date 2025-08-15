@@ -21,7 +21,7 @@
 - 🌱 Learning **Python Full Stack Development & Advanced AI Models**  
 - 💬 Ask me about **Python, AI/ML, Data Visualization, and Full Stack Development**  
 - 🏆 Achievements: *Finalist in Citizen Hack | Published Research Paper | Best Prototype Award*  
-- 📄 [View My Resume](https://durgaprasadresume.tiiny.site)  
+- 📄 [View My Resume](https://drive.google.com/file/d/17124nNPnqwchLDfczSqirK7MTmCUKnsv/view?usp=sharing)  
 
 ---
 
