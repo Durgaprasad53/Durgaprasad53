@@ -18,9 +18,6 @@
   <a href="https://github.com/Durgaprasad53">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 
