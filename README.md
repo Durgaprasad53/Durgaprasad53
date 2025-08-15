@@ -29,8 +29,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Railway Track Condition Monitoring System** | Real-time AI defect detection with 90% accuracy to prevent derailments. | Python, OpenCV, ML |
-| **Multi-Layered Authentication System** | Gesture & facial recognition login system with 70% reduced unauthorized access. | Python, OpenCV, AI |
+| **Railway Track Condition Monitoring System** | Real-time AI defect detection with 90% accuracy to prevent derailments. | Python, OpenCV, ML, YOLO |
+| **AI-based Pest Detection for Smart Farming** | Providing early pest detection alerts. Reducing pesticide usage. Improving crop health and yield | Python, OpenCV, AI |
 | **Data Visualization Dashboards** | Interactive dashboards delivering 20% clearer insights & faster processing. | Power BI, Python |
 
 ---
